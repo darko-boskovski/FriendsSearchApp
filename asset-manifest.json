@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//darko-boskovski.github.io/FriendsSearchApp/static/css/main.7e98b7dc.css",
-    "main.js": "//darko-boskovski.github.io/FriendsSearchApp/static/js/main.3f83105f.js",
-    "static/js/787.32032a02.chunk.js": "//darko-boskovski.github.io/FriendsSearchApp/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "//darko-boskovski.github.io/FriendsSearchApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "//darko-boskovski.github.io/FriendsSearchApp/index.html",
-    "main.7e98b7dc.css.map": "//darko-boskovski.github.io/FriendsSearchApp/static/css/main.7e98b7dc.css.map",
-    "main.3f83105f.js.map": "//darko-boskovski.github.io/FriendsSearchApp/static/js/main.3f83105f.js.map",
-    "787.32032a02.chunk.js.map": "//darko-boskovski.github.io/FriendsSearchApp/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/static/css/main.1a705ee6.css",
+    "main.js": "/static/js/main.e0f645f9.js",
+    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/index.html",
+    "main.1a705ee6.css.map": "/static/css/main.1a705ee6.css.map",
+    "main.e0f645f9.js.map": "/static/js/main.e0f645f9.js.map",
+    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e98b7dc.css",
-    "static/js/main.3f83105f.js"
+    "static/css/main.1a705ee6.css",
+    "static/js/main.e0f645f9.js"
   ]
 }
