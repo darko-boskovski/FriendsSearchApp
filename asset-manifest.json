@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a705ee6.css",
-    "main.js": "/static/js/main.e0f645f9.js",
-    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/index.html",
-    "main.1a705ee6.css.map": "/static/css/main.1a705ee6.css.map",
-    "main.e0f645f9.js.map": "/static/js/main.e0f645f9.js.map",
-    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/FriendsSearchApp/static/css/main.50fb8f03.css",
+    "main.js": "/FriendsSearchApp/static/js/main.583f89e0.js",
+    "static/js/787.32032a02.chunk.js": "/FriendsSearchApp/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/FriendsSearchApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/FriendsSearchApp/index.html",
+    "main.50fb8f03.css.map": "/FriendsSearchApp/static/css/main.50fb8f03.css.map",
+    "main.583f89e0.js.map": "/FriendsSearchApp/static/js/main.583f89e0.js.map",
+    "787.32032a02.chunk.js.map": "/FriendsSearchApp/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a705ee6.css",
-    "static/js/main.e0f645f9.js"
+    "static/css/main.50fb8f03.css",
+    "static/js/main.583f89e0.js"
   ]
 }
