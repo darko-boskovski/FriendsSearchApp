@@ -1,1 +1,1 @@
-# FriendsSearchApp
+# CatFriendsSearchApp
