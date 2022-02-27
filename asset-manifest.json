@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//darko-boskovski.github.io/FriendsSearchApp/static/css/main.7e98b7dc.css",
+    "main.js": "//darko-boskovski.github.io/FriendsSearchApp/static/js/main.67fbe8ce.js",
+    "static/js/787.32032a02.chunk.js": "//darko-boskovski.github.io/FriendsSearchApp/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "//darko-boskovski.github.io/FriendsSearchApp/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "//darko-boskovski.github.io/FriendsSearchApp/index.html",
+    "main.7e98b7dc.css.map": "//darko-boskovski.github.io/FriendsSearchApp/static/css/main.7e98b7dc.css.map",
+    "main.67fbe8ce.js.map": "//darko-boskovski.github.io/FriendsSearchApp/static/js/main.67fbe8ce.js.map",
+    "787.32032a02.chunk.js.map": "//darko-boskovski.github.io/FriendsSearchApp/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e98b7dc.css",
+    "static/js/main.67fbe8ce.js"
+  ]
+}
